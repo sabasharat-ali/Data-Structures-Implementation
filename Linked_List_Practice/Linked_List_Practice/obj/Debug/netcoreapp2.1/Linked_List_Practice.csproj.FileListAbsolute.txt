@@ -1,0 +1,11 @@
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\bin\Debug\netcoreapp2.1\Linked_List_Practice.deps.json
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\bin\Debug\netcoreapp2.1\Linked_List_Practice.runtimeconfig.json
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\bin\Debug\netcoreapp2.1\Linked_List_Practice.runtimeconfig.dev.json
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\bin\Debug\netcoreapp2.1\Linked_List_Practice.dll
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\bin\Debug\netcoreapp2.1\Linked_List_Practice.pdb
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\obj\Debug\netcoreapp2.1\Linked_List_Practice.csprojAssemblyReference.cache
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\obj\Debug\netcoreapp2.1\Linked_List_Practice.csproj.CoreCompileInputs.cache
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\obj\Debug\netcoreapp2.1\Linked_List_Practice.AssemblyInfoInputs.cache
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\obj\Debug\netcoreapp2.1\Linked_List_Practice.AssemblyInfo.cs
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\obj\Debug\netcoreapp2.1\Linked_List_Practice.dll
+C:\Users\sabas\source\repos\Linked_List_Practice\Linked_List_Practice\obj\Debug\netcoreapp2.1\Linked_List_Practice.pdb
