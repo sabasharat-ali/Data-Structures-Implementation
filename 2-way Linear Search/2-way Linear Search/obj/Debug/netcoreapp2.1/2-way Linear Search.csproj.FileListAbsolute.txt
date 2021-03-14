@@ -1,0 +1,12 @@
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\bin\Debug\netcoreapp2.1\2-way Linear Search.deps.json
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\bin\Debug\netcoreapp2.1\2-way Linear Search.runtimeconfig.json
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\bin\Debug\netcoreapp2.1\2-way Linear Search.runtimeconfig.dev.json
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\bin\Debug\netcoreapp2.1\2-way Linear Search.dll
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\bin\Debug\netcoreapp2.1\2-way Linear Search.pdb
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\obj\Debug\netcoreapp2.1\2-way Linear Search.csprojAssemblyReference.cache
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\obj\Debug\netcoreapp2.1\2-way Linear Search.csproj.CoreCompileInputs.cache
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\obj\Debug\netcoreapp2.1\2-way Linear Search.AssemblyInfoInputs.cache
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\obj\Debug\netcoreapp2.1\2-way Linear Search.AssemblyInfo.cs
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\obj\Debug\netcoreapp2.1\2-way Linear Search.dll
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\obj\Debug\netcoreapp2.1\2-way Linear Search.pdb
+C:\Users\sabas\source\repos\2-way Linear Search\2-way Linear Search\obj\Debug\netcoreapp2.1\2-way Linear Search.genruntimeconfig.cache

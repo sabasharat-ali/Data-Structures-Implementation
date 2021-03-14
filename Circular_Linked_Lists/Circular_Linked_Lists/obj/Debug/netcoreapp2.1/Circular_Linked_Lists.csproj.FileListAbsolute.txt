@@ -1,0 +1,11 @@
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\bin\Debug\netcoreapp2.1\Circular_Linked_Lists.deps.json
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\bin\Debug\netcoreapp2.1\Circular_Linked_Lists.runtimeconfig.json
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\bin\Debug\netcoreapp2.1\Circular_Linked_Lists.runtimeconfig.dev.json
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\bin\Debug\netcoreapp2.1\Circular_Linked_Lists.dll
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\bin\Debug\netcoreapp2.1\Circular_Linked_Lists.pdb
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\obj\Debug\netcoreapp2.1\Circular_Linked_Lists.csprojAssemblyReference.cache
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\obj\Debug\netcoreapp2.1\Circular_Linked_Lists.csproj.CoreCompileInputs.cache
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\obj\Debug\netcoreapp2.1\Circular_Linked_Lists.AssemblyInfoInputs.cache
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\obj\Debug\netcoreapp2.1\Circular_Linked_Lists.AssemblyInfo.cs
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\obj\Debug\netcoreapp2.1\Circular_Linked_Lists.dll
+C:\Users\sabas\source\repos\Circular_Linked_Lists\Circular_Linked_Lists\obj\Debug\netcoreapp2.1\Circular_Linked_Lists.pdb
